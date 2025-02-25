@@ -13,3 +13,5 @@ Requirements:
 
 Install the required libraries using:
 >pip install opencv-python numpy pycryptodome
+Run gui.py file using :
+>python gui.py
